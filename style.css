@@ -1,8 +1,5 @@
-.container{
-    margin-top: 150px;
-    
-}
-.index-container{
+
+/* .index-container{
     text-align: center;
 }
 .index-container h1{
@@ -94,7 +91,17 @@ h1,h2{
 }
 .contact p{
     margin: 1px;
-    color: rgb(129, 2, 129);
+    color: rgb(129, 2, 129); */
+/* } */
+
+.personal-info{
+    margin-top: 100px;
 }
 
-
+.launch-link{
+    background-color: #6610f2;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 2px;
+}
