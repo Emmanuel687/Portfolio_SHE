@@ -94,14 +94,68 @@ h1,h2{
     color: rgb(129, 2, 129); */
 /* } */
 
-.personal-info{
+.landing-page{
     margin-top: 100px;
+}
+.personal-info h1{
+    font-size: 44px;
+} 
+.personal-info h2{
+    font-size: 50px;  
+} 
+.personal-info p{
+    font-size: 15px;
+    color: #6c757d;   
+} 
+.image-card{
+    padding-bottom: 70px;
+    padding-top: 70px;
+    padding-right: 40px;
+    padding-left: 40px;
+    border-radius: 10px;
+}
+
+.project-text{
+    font-size: 1.4rem;
+    font-weight: 400;
+    color: black;
 }
 
 .launch-link{
-    background-color: #6610f2;
+    background-color: #0d6efd;
     color: white;
     padding: 10px;
     text-decoration: none;
     border-radius: 2px;
+}
+.image-border{
+    border: 7px solid rgb(255, 251, 251) ;
+    padding: 30px;
+    background-color: rgb(246, 246, 246);
+    margin: 20px;
+    width: 21rem;
+    height: 14rem;
+}
+.landing-page h1{
+    font-size: 96px;
+
+}
+.landing-page h3{
+    font-size: 24px;
+    color:  #646769;;
+    
+}
+.landing-link{
+    display: flex;
+    
+    
+}
+.landing-link a{
+    justify-content: center;
+    margin: 10px;
+    text-align: center;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+
 }
