@@ -192,3 +192,26 @@ h1,h2{
     margin-right: auto;
 
 }
+
+@media (max-width:400px){
+    #awward-image{
+        display: none;
+    }
+    #hood-image{
+        display: none;
+    }
+    #delani_image{
+        display: none;
+    }
+    #landing-page h1{
+        font-size: 30px;
+    }
+    #landing-page h2{
+        font-size: 42px;
+    }
+    #landing-page p{
+        font-size: 17px;
+    }
+
+  
+}
