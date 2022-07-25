@@ -183,6 +183,10 @@ h1,h2{
     color: white;
 
 }
+#about-page a{
+    text-decoration: none;
+    color: #6f42c1;
+}
 .landing-link a{
     justify-content: center;
     margin: 10px;
